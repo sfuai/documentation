@@ -21,7 +21,7 @@ Basic tasks:
   * Creates and manages official documentation for the club and acts as main advisor
   * Creates and circulates meeting minutes with clear direction as to the club’s priorities and milestones
 
-### ~~Finance and Merchandise Administrator (FMA) (Mari)~~ (All positions filled)
+### ~~Finance and Merchandise Administrator (FMA) (Fiona)~~ (All positions filled)
   This position involves overseeing all the spending within the club, and works closely with the IRA, ERA, and the Events team to help create expense reports and budgets for everything that goes on in the club. This is an intensive position that requires a keen eye to detail, coordination with everyone within the club, and a good working knowledge of SFSS. Despite it’s uninspiring nature, this is arguable the most important position in the club.
   Basic tasks:
   * Works with the IRA to create expense reports
@@ -69,7 +69,7 @@ Basic tasks:
   * Making sure workshops are respectful, accessible, and that member needs are met 
   * Organizes a workshop once a month
 
-### Public Lecture Organizer (PLO) (1/2 position(s) available, Lisa)
+### Public Lecture Organizer (PLO) (1/2 position(s) available, Nathan)
   Public lectures involve organizing and booking guest speakers (from industry and academia) to discuss their work in AI or topics of expertise for us to explore in a more formal setting.
 Basic tasks:
   * Reaches out to faculty, graduate students, and industry professionals for speaking opportunities about an AI-related topic of their choice, including their work and research
@@ -77,7 +77,7 @@ Basic tasks:
   * Ensures guest lecturers are treated well and give talks that are accessible for our audience 
   * Making sure event is respectful, accessible, and that member needs are met
 
-### ~~Social Night Facilitator (SNF) (Nathan)~~ (All positions filled)
+### Social Night Facilitator (SNF) (Nathan) (1/1 position(s) available)
   Organizes outing and social events with the aim of community building. Aims to make social nights fun, accessible, and relaxing. Responsible for coming up with non-SFSS group activities for the club to partake in together (e.g. Hackathons) Deliberately open ended.
   Basic tasks:
   * Books pub nights and organizes fun activities for outings (i.e. movie nights, dinners) 
