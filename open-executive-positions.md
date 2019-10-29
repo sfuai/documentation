@@ -35,14 +35,14 @@ Basic tasks:
   * Responsible for sponsorships (e.g. OpenAI, Safe AI, Microsoft, Amazon, Venture labs, etc)
   * Responsible for collaborations (e.g. SFU SciProg, WiES, WiCS, Vancouver school of AI, Freegeek, etc)
 
-### ~~Public Relations Administrator (PRA) (Joeun)~~ (All positions filled)
+### Public Relations Administrator (PRA) (1/1 position(s) available)
   This position is mostly online and requires working knowledge of current club events and the internet. Works closely with Events team. The ideal candidate for this position will have strong graphics skills and social media knowledge, and regularly sign into accounts to post news and answer questions. Main platforms currently are Facebook, Twitter, and Discord.
   Basic tasks:
   * Creates club graphics and post about club events on social media in a timely manner
   * Gains familiarity with Twitter, Facebook, Discord, and potentially Slack
   * Oversees club activity online and maintains a strong online presence
 
-### Promotions and Outreach Administrator (POA) (1/1 position(s) available)
+### ~~Promotions and Outreach Administrator (POA) (Joeun)~~ (All positions filled)
   Works closely with PRA and Events team to promote the club using posters, word of mouth, and any and other ways they can think of to get the word out for the club. Following finance, this is the second most important position within the club that requires a lot of elbow grease and creativity. This position is deliberately open ended.
   Basic tasks:
   * Strategically promoting the club across campuses using creative thinking
