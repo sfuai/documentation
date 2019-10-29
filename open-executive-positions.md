@@ -77,7 +77,7 @@ Basic tasks:
   * Ensures guest lecturers are treated well and give talks that are accessible for our audience 
   * Making sure event is respectful, accessible, and that member needs are met
 
-### Social Night Facilitator (SNF) (1/1 position(s) available)
+### ~~Social Night Facilitator (SNF) (Nathan)~~ (All positions filled)
   Organizes outing and social events with the aim of community building. Aims to make social nights fun, accessible, and relaxing. Responsible for coming up with non-SFSS group activities for the club to partake in together (e.g. Hackathons) Deliberately open ended.
   Basic tasks:
   * Books pub nights and organizes fun activities for outings (i.e. movie nights, dinners) 
