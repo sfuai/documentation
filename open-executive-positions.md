@@ -36,6 +36,8 @@ Basic tasks:
   * Responsible for collaborations (e.g. SFU SciProg, WiES, WiCS, Vancouver school of AI, Freegeek, etc)
 
 ### ~~Public Relations Administrator (PRA) (Kim)~~ (All positions filled)
+  
+ ### Marketing Director (MD) (1/1 position(s) available)
   This position is mostly online and requires working knowledge of current club events and the internet. Works closely with Events team. The ideal candidate for this position will have strong graphics skills and social media knowledge, and regularly sign into accounts to post news and answer questions. Main platforms currently are Facebook, Twitter, and Discord.
   Basic tasks:
   * Creates club graphics and post about club events on social media in a timely manner
