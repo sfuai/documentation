@@ -29,14 +29,14 @@ Basic tasks:
   * Advises on improvements to club spending, and overall club experience (e.g. catering, prizes, etc)
   * Orders club materials and maintains inventory (e.g. club stickers, printed materials, etc)
 
-### External Relations Administrator (ERA) (2/2 position(s) available)
+### External Relations Administrator (ERA) (1/2 position(s) available, Nathan)
   This position is responsible for scouting out potential club sponsorships, both within academia and industry, as well as reaching out for collaborations with other SFSS and non SFSS groups. This position is ideal for someone who plans on regularly representing the club at non-SFUai events.
   Basic tasks:
   * Responsible for sponsorships (e.g. OpenAI, Safe AI, Microsoft, Amazon, Venture labs, etc)
   * Responsible for collaborations (e.g. SFU SciProg, WiES, WiCS, Vancouver school of AI, Freegeek, etc)
   
- ### Marketing Director (MD) (1/1 position(s) available)
-  This position is mostly online and requires working knowledge of current club events and the internet. Works closely with Events team. The ideal candidate for this position will have strong graphics skills and social media knowledge, and regularly sign into accounts to post news and answer questions. Main platforms currently are Facebook, Twitter, and Discord.
+ ### ~~Creative Director (CD) (April)~~ (All positions filled)
+  This position is mostly online and requires working knowledge of current club events and the internet. Works closely with Events team. The ideal candidate for this position will have strong graphics skills and social media knowledge. Main platforms currently are Facebook, Twitter, and Discord.
   Basic tasks:
   * Creates club graphics and post about club events on social media in a timely manner
   * Gains familiarity with Twitter, Facebook, Discord, and potentially Slack
